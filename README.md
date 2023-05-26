@@ -12,10 +12,10 @@ acerca_de_mi = {
   age: 31,
   city: "Mexico City", 
   main_languages: [
-    "Python", "R", "Java"
+    "Python", "R", "SQL"
   ],
-  secondary_languages: [
-    "SQL", "CSS"
+  tools_visualization : [
+    "Power BI", "Tableau"
   ]
 }
 
