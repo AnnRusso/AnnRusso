@@ -16,6 +16,9 @@ acerca_de_mi = {
   ],
   tools_visualization : [
     "Power BI", "Tableau"
+  ],
+  cloud: [
+    "Azure", "Google", "Oracle"
   ]
 }
 
