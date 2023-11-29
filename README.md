@@ -8,9 +8,7 @@
 acerca_de_mi = {
   gatos: True,
   perros: True,
-  country: "Mexican",
-  age: 31,
-  city: "Mexico City", 
+  country: "Mexican", 
   main_languages: [
     "Python", "R", "SQL"
   ],
